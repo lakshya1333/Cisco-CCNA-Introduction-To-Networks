@@ -29,7 +29,7 @@ There are several recent networking trends that affect organizations and consume
 ## Network Security
 
 There are several common external threats to networks:
-
+```
 Viruses, worms, and Trojan horses
 Spyware and adware
 Zero-day attacks
@@ -37,13 +37,18 @@ Threat Actor attacks
 Denial of service attacks
 Data interception and theft
 Identity theft
-These are the basic security components for a home or small office network:
+```
 
+These are the basic security components for a home or small office network:
+```
 Antivirus and antispyware
 Firewall filtering
-Larger networks and corporate networks use antivirus, antispyware, and firewall filtering, but they also have other security requirements:
+```
 
+Larger networks and corporate networks use antivirus, antispyware, and firewall filtering, but they also have other security requirements:
+```
 Dedicated firewall systems
 Access control lists (ACL)
 Intrusion prevention systems (IPS)
 Virtual private networks (VPN)
+```
